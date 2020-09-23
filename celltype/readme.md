@@ -9,3 +9,6 @@ LCLs are developed by infecting peripheral blood lymphocytes (PBL) with Epstein 
 ## PBMC / Peripheral blood mononuclear cell
 A peripheral blood mononuclear cell (PBMC) is any peripheral blood cell having a round nucleus.[1] These cells consist of lymphocytes (T cells, B cells, NK cells) and monocytes, whereas erythrocytes and platelets have no nuclei, and granulocytes (neutrophils, basophils, and eosinophils) have multi-lobed nuclei. In humans, lymphocytes make up the majority of the PBMC population, followed by monocytes, and only a small percentage of dendritic cells.
 
+
+references
+- [Blood](https://www.miltenyibiotec.com/US-en/resources/macs-handbook/human-cells-and-organs/human-cell-sources/blood-human.html)
