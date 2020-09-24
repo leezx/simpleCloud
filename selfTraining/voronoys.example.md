@@ -17,7 +17,10 @@
 - `styles.css`
 
 # 拆解一个页面，分析逻辑
- 
+- 导航栏每个page的名称在UI里的title修改
+- Elections page
+- 位置`tabs/ui/eleicoes.R`
+
 
 
 
