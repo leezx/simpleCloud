@@ -4,6 +4,7 @@
 # data mining
 
 # database/website
+- shiny值不值得学，小课题组级别的网站shiny完全够用，完全不用升级工具！！！
 - [CSS 教程](https://www.runoob.com/css/css-tutorial.html)
 - 案例解析，结构剖析，设计框架
 
