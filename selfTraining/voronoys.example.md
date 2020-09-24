@@ -24,3 +24,4 @@
 # 细节
 - https://convertico.com/ - png to ico, the small logo in the tab
 - [css图片居中(水平居中和垂直居中)](https://www.cnblogs.com/yiven/p/9645686.html)
+- http://www.uugai.com/ - 免费logo设计
