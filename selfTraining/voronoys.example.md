@@ -10,6 +10,12 @@
 - `html`文件夹里是footer和Google分析的通用html文件，很好修改。
 - 其他都是一些可有可无的文件
 
+# 拆解首页
+- `ui/home.R`，
+- `server/home.R`，
+
+# 拆解一个页面，分析逻辑
+ 
 
 
 
