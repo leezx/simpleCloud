@@ -11,8 +11,10 @@
 - 其他都是一些可有可无的文件
 
 # 拆解首页
+- `ui.R`
 - `ui/home.R`，
 - `server/home.R`，
+- `styles.css`
 
 # 拆解一个页面，分析逻辑
  
