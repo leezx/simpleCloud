@@ -3,6 +3,7 @@
 ## layout functions
 - fluidPage() 液体页面
 - fillPage(), fixedPage(), flowLayout(), navbarPage(), sidebarLayout(), splitLayout(), verticalLayout()
+- [Application layout guide](https://shiny.rstudio.com/articles/layout-guide.html)
 
 ## 常见问题
 ### 设置整体的页面宽度，太宽很丑
