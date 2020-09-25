@@ -3,6 +3,7 @@
 
 # website code tree
 ![](voronoys-tree.png)
+- R shiny里的一切都是函数，函数间可以嵌套，搞清楚函数的输入输出。
 - 根目录有3个函数，`ui, server, global`，代码都很简短，只是wrapper，分别放了 所有页面基本布局、所有独立页面的source code、packages全局变量以及source code。
 - 以上只是wrapper，具体代码在`tabs`文件夹里，每个R代码都是一个独立页面，有自己的输入和输出逻辑。
 - `functions`文件夹里有两个通用的绘图和数据处理函数，分工非常明确。
