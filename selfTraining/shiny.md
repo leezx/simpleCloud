@@ -19,6 +19,11 @@
 ### reactive的妙用，提速
 如果总是实时处理参数的话，有时候非常费时，用reactive则可以避免这种尴尬。
 
+# 经验反省
+- 不开debug模式，随缘找错，浪费了大量时间
+- UI显示名字和server变量名字不会区分
+- 工具没有充分掌握就开始大干，最少把基本教程看一遍
+- HTML、CSS和shiny教程基本自己过一遍，这样开发起来事半功倍
 
 # reference
 - [Function reference version 1.5.0](https://shiny.rstudio.com/reference/shiny/1.5.0/)
