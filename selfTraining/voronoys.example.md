@@ -21,7 +21,11 @@
 - 导航栏每个page的名称在UI里的title修改
 - Elections page
 - 位置`tabs/ui/eleicoes.R`
+- 位置`tabs/server/eleicoes/eleicoes_brasil.R`
 
+## 剖析
+- UI比较简单直接，不同的tab分开写，在一个wrapper里source一下，`tabPanel`里面嵌套一个`tabsetPanel`，`tabsetPanel`继续嵌套`tabPanel`，最终的`tabPanel`比较简单，全部由`column`完成布局，选项框用了`shinyWidgets`的`pickerInput`和`actionBttn`；结果页面首先用了`conditionalPanel`输出默认结果提示。
+- SERVER有点复杂，大量使用了`observeEvent`，根据输入参数选择法反馈，改变了后续的参数`updatePickerInput`；然后在`reactive`函数里对input的参数做了一些数据处理；然后用`eventReactive`来针对submit按钮执行操作；最后，把结果render到`output`。【这里renderLeaflet是针对地图的，我们用不到】
 
 
 
