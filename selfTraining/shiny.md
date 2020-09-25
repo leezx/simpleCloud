@@ -26,3 +26,4 @@
 - [R powered web applications with Shiny (a tutorial and cheat sheet with 40 example apps)](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
 - [R Shiny selectInput that is dependent on another selectInput](https://stackoverflow.com/questions/34929206/r-shiny-selectinput-that-is-dependent-on-another-selectinput)
 - [Add Google Analytics to a Shiny app](https://shiny.rstudio.com/articles/google-analytics.html)
+- [Using Leaflet with Shiny](https://rstudio.github.io/leaflet/shiny.html)
